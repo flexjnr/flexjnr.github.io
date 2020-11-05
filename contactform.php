@@ -8,7 +8,7 @@
 
 
 
-   $email_form = 'felixwanyoike9@gmil.com';
+   $email_form = 'felixwanyoike9@gmail.com';
    $email_subject = 'New form submission'; 
    $email_body = "User Name: $name.\n".
                       "User Email: $visitor_email. \n".
